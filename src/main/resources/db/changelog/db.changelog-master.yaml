@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Chernenkov
+  - include:
+      file: db/changelog/scripts/V1__init.sql
