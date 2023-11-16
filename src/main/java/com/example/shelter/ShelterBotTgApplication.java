@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ShelterBotTgApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Start projectt");
+		System.out.println("Start project");
 		SpringApplication.run(ShelterBotTgApplication.class, args);
 	}
 
