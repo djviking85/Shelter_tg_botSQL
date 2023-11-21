@@ -1,11 +1,10 @@
 # Project Description
-This project[^1] was written for educational purposes. The goal of this project is to gain the first experience in teamwork.
-[^1]: This project is under development
+Телеграмм бот по приюту животных, с введением Базы данных и SQL запросов
+Этот проект был написан в кемпинге для тестирования гипотез, командой.
+
+
 ***
-# Project Functionality
-This is a telegram bot for a fictional animal shelter designed to provide information of interest to the user.
-***
-# Technologies and frameworks
+# Что мы использовали:
 1. Maven.
 2. Postgresql.
 3. Liquibase.
