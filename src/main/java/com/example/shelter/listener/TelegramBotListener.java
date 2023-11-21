@@ -1,5 +1,11 @@
 package com.example.shelter.listener;
+import com.example.shelter.entity.Report;
+import com.example.shelter.entity.Users;
+import com.example.shelter.repository.UsersRepository;
+import com.example.shelter.service.ReportService;
 import com.example.shelter.service.ShelterService;
+import com.example.shelter.service.ShelterVolunteerService;
+import com.example.shelter.shelter.ShelterType;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;
 import com.pengrad.telegrambot.model.File;
