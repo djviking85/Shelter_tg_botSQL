@@ -1,5 +1,7 @@
 package com.example.shelter.controller;
 
+import com.example.shelter.entity.Users;
+import com.example.shelter.service.ShelterVolunteerService;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import org.springframework.http.MediaType;
