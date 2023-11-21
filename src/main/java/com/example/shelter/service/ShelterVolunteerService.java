@@ -1,8 +1,12 @@
 package com.example.shelter.service;
 
+import com.example.shelter.entity.Users;
+import com.example.shelter.repository.UsersRepository;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.request.SendMessage;
 import org.springframework.stereotype.Service;
+
+import java.util.Collection;
 
 @Service
 

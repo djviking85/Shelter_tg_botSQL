@@ -1,6 +1,8 @@
 package com.example.shelter.service;
 
 import com.example.shelter.entity.Report;
+import com.example.shelter.repository.ReportRepository;
+import com.example.shelter.repository.UsersRepository;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.model.File;
 import com.pengrad.telegrambot.request.SendMessage;
