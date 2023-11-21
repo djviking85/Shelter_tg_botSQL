@@ -1,5 +1,6 @@
 package com.example.shelter.entity;
 
+import com.example.shelter.shelter.ShelterType;
 import lombok.Data;
 
 import javax.persistence.Entity;
