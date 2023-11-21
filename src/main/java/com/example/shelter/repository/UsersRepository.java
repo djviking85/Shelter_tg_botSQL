@@ -1,6 +1,8 @@
 package com.example.shelter.repository;
 
-import org.spriegrambotshelter.entity.Users;
+
+import com.example.shelter.entity.Users;
+import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  * This UsersRepository interface represents a repository for accessing

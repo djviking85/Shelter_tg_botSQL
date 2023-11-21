@@ -1,4 +1,5 @@
 package com.example.shelter.listener;
+import com.example.shelter.service.ShelterService;
 import com.pengrad.telegrambot.TelegramBot;
 import com.pengrad.telegrambot.UpdatesListener;
 import com.pengrad.telegrambot.model.File;

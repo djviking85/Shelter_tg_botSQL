@@ -1,6 +1,11 @@
 package com.example.shelter.repository;
 
 
+import com.example.shelter.entity.Shelter;
+import com.example.shelter.shelter.ShelterType;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.Optional;
 
 /**
  * This ShelterRepository interface represents a repository for accessing
